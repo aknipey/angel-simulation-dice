@@ -1,10 +1,10 @@
 {
-  "name": "@3d-dice/dice-box",
+  "name": "angel-simulation-dice",
   "author": {
     "name": "Frank Ali"
   },
   "description": "A 3D environment for rolling game dice",
-  "version": "1.0.10",
+  "version": "1.0.21",
   "keywords": [
     "3D",
     "dice",
